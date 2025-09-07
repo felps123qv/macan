@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #F5F5F5;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #0C0C0C;
+}
+
+#macan a {
+    color: #C1121F;
+}
+
+.info img {
+    margin-inline: 500px;
+    width: 500px;
+    height: 400px;
+}
+
+.info p {
+    font-size: 70px;
+}
+
+h1 {
+    font-family: 'Montserrat' sans-serif;
+}
+
